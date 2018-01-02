@@ -1,0 +1,11 @@
+# java class files
+*.class
+
+# Intellij project files
+*.iml
+.idea/
+
+# gradle
+.gradle/
+build/
+bin/
